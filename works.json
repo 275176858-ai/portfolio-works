@@ -682,25 +682,6 @@
       "status": "published"
     },
     {
-      "id": 38,
-      "title": "龙 详情页 06",
-      "year": "",
-      "category": "detail",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/detail-11.webp",
-      "coverW": 1200,
-      "coverH": 1200,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 338,
-      "status": "published"
-    },
-    {
       "id": 39,
       "title": "龙 详情页 07",
       "year": "",

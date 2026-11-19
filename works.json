@@ -161,26 +161,6 @@
       "videoPosterH": 1000
     },
     {
-      "id": 9,
-      "title": "详情页",
-      "year": null,
-      "category": "detail",
-      "section": "archive",
-      "mediaType": "image",
-      "description": null,
-      "coverUrl": "https://raw.githubusercontent.com/275176858-ai/portfolio-works/main/assets/cms/cover/1795077366081-追风体验官-01.jpg",
-      "coverW": 832,
-      "coverH": 1108,
-      "videoUrl": "assets/video/works/motion-01.mp4",
-      "videoPosterUrl": "assets/img/works/motion-01.jpg",
-      "videoPosterW": 832,
-      "videoPosterH": 1108,
-      "detailMedia": [],
-      "musicUrl": null,
-      "sortOrder": 209,
-      "status": "published"
-    },
-    {
       "id": 10,
       "title": "品牌动态影像",
       "year": "",

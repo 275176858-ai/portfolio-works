@@ -867,26 +867,6 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
-    },
-    {
-      "id": "wmwnbio4u",
-      "title": "麒麟",
-      "year": null,
-      "section": "featured",
-      "category": "motion",
-      "mediaType": "video",
-      "description": null,
-      "coverUrl": null,
-      "coverW": null,
-      "coverH": null,
-      "videoUrl": "https://huanglifu-portfolio.netlify.app/cms-media/video/1795078681651-11月5日-2-.mp4",
-      "videoPosterUrl": null,
-      "videoPosterW": null,
-      "videoPosterH": null,
-      "musicUrl": null,
-      "detailMedia": [],
-      "sortOrder": 99,
-      "status": "published"
     }
   ]
 }

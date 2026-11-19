@@ -139,20 +139,22 @@
     {
       "id": 8,
       "title": "物料延展上幅",
-      "year": "",
+      "year": null,
       "category": "other",
-      "section": "featured",
+      "section": "archive",
       "mediaType": "image",
       "description": "物料延展：VI 规则落到真实触点，从挂旗到桌面物料统一气质。",
       "coverUrl": "assets/img/works/other-08.webp",
       "coverW": 1600,
       "coverH": 1000,
-      "videoUrl": "",
-      "videoPosterUrl": "",
+      "videoUrl": null,
+      "videoPosterUrl": null,
       "detailMedia": [],
-      "musicUrl": "",
+      "musicUrl": null,
       "sortOrder": 8,
-      "status": "published"
+      "status": "published",
+      "videoPosterW": 1600,
+      "videoPosterH": 1000
     },
     {
       "id": 9,

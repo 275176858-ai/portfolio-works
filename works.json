@@ -834,25 +834,6 @@
       "status": "published"
     },
     {
-      "id": 50,
-      "title": "工牌挂绳",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-10.webp",
-      "coverW": 1800,
-      "coverH": 1021,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 350,
-      "status": "published"
-    },
-    {
       "id": 51,
       "title": "夹板",
       "year": "",

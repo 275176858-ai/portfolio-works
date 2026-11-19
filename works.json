@@ -1,11 +1,9 @@
 {
-  "version": 1,
-  "updatedAt": "2026-11-19T07:54:23.781Z",
   "works": [
     {
       "id": 1,
       "title": "品牌视觉提案封面",
-      "year": "",
+      "year": null,
       "category": "brand",
       "section": "featured",
       "mediaType": "image",
@@ -13,12 +11,14 @@
       "coverUrl": "assets/img/works/brand-01.webp",
       "coverW": 1600,
       "coverH": 1000,
-      "videoUrl": "",
-      "videoPosterUrl": "",
+      "videoUrl": null,
+      "videoPosterUrl": null,
       "detailMedia": [],
-      "musicUrl": "",
+      "musicUrl": null,
       "sortOrder": 1,
-      "status": "published"
+      "status": "published",
+      "videoPosterW": 1600,
+      "videoPosterH": 1000
     },
     {
       "id": 2,

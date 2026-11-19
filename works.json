@@ -836,25 +836,6 @@
       "long": false,
       "sortOrder": 349,
       "status": "published"
-    },
-    {
-      "id": 52,
-      "title": "文件板",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-12.webp",
-      "coverW": 1121,
-      "coverH": 1571,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": true,
-      "sortOrder": 352,
-      "status": "published"
     }
   ]
 }

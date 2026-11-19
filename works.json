@@ -771,25 +771,6 @@
       "status": "published"
     },
     {
-      "id": 45,
-      "title": "T 恤正面",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-04.webp",
-      "coverW": 792,
-      "coverH": 970,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 345,
-      "status": "published"
-    },
-    {
       "id": 49,
       "title": "物料延展下幅",
       "year": "",

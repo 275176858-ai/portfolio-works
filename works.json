@@ -867,6 +867,26 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
+    },
+    {
+      "id": "wmwnbqa3x",
+      "title": "logo",
+      "year": null,
+      "section": "reel",
+      "category": "motion",
+      "mediaType": "video",
+      "description": null,
+      "coverUrl": null,
+      "coverW": null,
+      "coverH": null,
+      "videoUrl": "https://huanglifu-portfolio.netlify.app/cms-media/video/1795079048304-11月9日-1-.mp4",
+      "videoPosterUrl": null,
+      "videoPosterW": null,
+      "videoPosterH": null,
+      "musicUrl": null,
+      "detailMedia": [],
+      "sortOrder": 99,
+      "status": "published"
     }
   ]
 }

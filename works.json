@@ -907,6 +907,26 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
+    },
+    {
+      "id": "wmwnbzusd",
+      "title": "wz2",
+      "year": null,
+      "section": "archive",
+      "category": "web",
+      "mediaType": "image",
+      "description": null,
+      "coverUrl": "https://huanglifu-portfolio.netlify.app/cms-media/cover/1795079479404-网站设计_画板-1.jpg",
+      "coverW": 8000,
+      "coverH": 25242,
+      "videoUrl": null,
+      "videoPosterUrl": null,
+      "videoPosterW": 8000,
+      "videoPosterH": 25242,
+      "musicUrl": null,
+      "detailMedia": [],
+      "sortOrder": 99,
+      "status": "published"
     }
   ]
 }

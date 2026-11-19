@@ -853,25 +853,6 @@
       "status": "published"
     },
     {
-      "id": 48,
-      "title": "橙色挂旗",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-07.webp",
-      "coverW": 633,
-      "coverH": 970,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 348,
-      "status": "published"
-    },
-    {
       "id": 49,
       "title": "物料延展下幅",
       "year": "",

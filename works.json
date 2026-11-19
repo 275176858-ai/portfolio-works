@@ -23,20 +23,22 @@
     {
       "id": 2,
       "title": "主视觉与标准色",
-      "year": "",
+      "year": null,
       "category": "brand",
-      "section": "featured",
+      "section": "archive",
       "mediaType": "image",
       "description": "主视觉与标准色系统：确立品牌色彩语言，让气质贯穿全部物料。",
       "coverUrl": "assets/img/works/brand-07.webp",
       "coverW": 1600,
       "coverH": 1000,
-      "videoUrl": "",
-      "videoPosterUrl": "",
+      "videoUrl": null,
+      "videoPosterUrl": null,
       "detailMedia": [],
-      "musicUrl": "",
+      "musicUrl": null,
       "sortOrder": 2,
-      "status": "published"
+      "status": "published",
+      "videoPosterW": 1600,
+      "videoPosterH": 1000
     },
     {
       "id": 3,

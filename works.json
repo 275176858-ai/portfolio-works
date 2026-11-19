@@ -41,20 +41,22 @@
     {
       "id": 3,
       "title": "标志色彩组合",
-      "year": "",
+      "year": null,
       "category": "brand",
-      "section": "featured",
+      "section": "archive",
       "mediaType": "image",
       "description": "标志色彩组合规范：不同底色下的标志使用规则，守住识别的一致性。",
       "coverUrl": "assets/img/works/brand-06.webp",
       "coverW": 1600,
       "coverH": 1000,
-      "videoUrl": "",
-      "videoPosterUrl": "",
+      "videoUrl": null,
+      "videoPosterUrl": null,
       "detailMedia": [],
-      "musicUrl": "",
+      "musicUrl": null,
       "sortOrder": 3,
-      "status": "published"
+      "status": "published",
+      "videoPosterW": 1600,
+      "videoPosterH": 1000
     },
     {
       "id": 4,

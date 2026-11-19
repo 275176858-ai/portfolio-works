@@ -815,25 +815,6 @@
       "status": "published"
     },
     {
-      "id": 46,
-      "title": "T 恤背面",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-05.webp",
-      "coverW": 883,
-      "coverH": 970,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 346,
-      "status": "published"
-    },
-    {
       "id": 47,
       "title": "深蓝挂旗",
       "year": "",

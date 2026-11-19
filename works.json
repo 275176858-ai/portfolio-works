@@ -889,25 +889,6 @@
       "long": true,
       "sortOrder": 352,
       "status": "published"
-    },
-    {
-      "id": 54,
-      "title": "手提袋 2",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-14.webp",
-      "coverW": 1200,
-      "coverH": 1511,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": true,
-      "sortOrder": 354,
-      "status": "published"
     }
   ]
 }

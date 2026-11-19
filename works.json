@@ -752,25 +752,6 @@
       "status": "published"
     },
     {
-      "id": 44,
-      "title": "名片设计",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-03.webp",
-      "coverW": 1800,
-      "coverH": 976,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 344,
-      "status": "published"
-    },
-    {
       "id": 49,
       "title": "物料延展下幅",
       "year": "",

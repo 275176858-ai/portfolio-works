@@ -846,28 +846,6 @@
       "long": false,
       "sortOrder": 349,
       "status": "published"
-    },
-    {
-      "id": "wmwnakyot",
-      "title": "详情页",
-      "year": null,
-      "section": "featured",
-      "category": "detail",
-      "mediaType": "image",
-      "description": null,
-      "coverUrl": null,
-      "coverW": null,
-      "coverH": null,
-      "videoUrl": null,
-      "videoPosterUrl": null,
-      "videoPosterW": null,
-      "videoPosterH": null,
-      "musicUrl": null,
-      "detailMedia": [
-        "https://raw.githubusercontent.com/275176858-ai/portfolio-works/main/assets/cms/detail/1795077112246-追风体验官-01.jpg"
-      ],
-      "sortOrder": 99,
-      "status": "published"
     }
   ]
 }

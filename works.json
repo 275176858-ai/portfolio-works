@@ -855,7 +855,7 @@
       "category": "detail",
       "mediaType": "image",
       "description": null,
-      "coverUrl": "https://raw.githubusercontent.com/275176858-ai/portfolio-works/main/assets/cms/cover/1795077236313-追风体验官-01.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/275176858-ai/portfolio-works/main/assets/cms/cover/1795077274160-追风体验官-01.jpg",
       "coverW": null,
       "coverH": null,
       "videoUrl": null,
@@ -863,7 +863,9 @@
       "videoPosterW": null,
       "videoPosterH": null,
       "musicUrl": null,
-      "detailMedia": [],
+      "detailMedia": [
+        "https://raw.githubusercontent.com/275176858-ai/portfolio-works/main/assets/cms/detail/1795077281689-追风体验官-01.jpg"
+      ],
       "sortOrder": 99,
       "status": "published"
     }

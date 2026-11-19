@@ -928,6 +928,26 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
+    },
+    {
+      "id": "wmwncjys6",
+      "title": "麒麟车架pro",
+      "year": null,
+      "section": "archive",
+      "category": "detail",
+      "mediaType": "image",
+      "description": null,
+      "coverUrl": "https://huanglifu-portfolio.netlify.app/cms-media/cover/1795080432842-麒麟车架-01.jpg",
+      "coverW": 1756,
+      "coverH": 32630,
+      "videoUrl": null,
+      "videoPosterUrl": null,
+      "videoPosterW": 1756,
+      "videoPosterH": 32630,
+      "musicUrl": null,
+      "detailMedia": [],
+      "sortOrder": 99,
+      "status": "published"
     }
   ]
 }

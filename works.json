@@ -321,25 +321,6 @@
       "status": "published"
     },
     {
-      "id": 18,
-      "title": "封面",
-      "year": "",
-      "category": "brand",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/brand-12.webp",
-      "coverW": 1200,
-      "coverH": 1424,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 318,
-      "status": "published"
-    },
-    {
       "id": 19,
       "title": "展架",
       "year": "",

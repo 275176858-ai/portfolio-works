@@ -867,26 +867,6 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
-    },
-    {
-      "id": "wmwnbmy7b",
-      "title": "麒麟",
-      "year": null,
-      "section": "reel",
-      "category": "motion",
-      "mediaType": "image",
-      "description": null,
-      "coverUrl": null,
-      "coverW": null,
-      "coverH": null,
-      "videoUrl": "https://huanglifu-portfolio.netlify.app/cms-media/video/1795078891208-11月5日-2-.mp4",
-      "videoPosterUrl": null,
-      "videoPosterW": null,
-      "videoPosterH": null,
-      "musicUrl": null,
-      "detailMedia": [],
-      "sortOrder": 99,
-      "status": "published"
     }
   ]
 }

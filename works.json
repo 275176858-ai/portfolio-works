@@ -846,6 +846,26 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
+    },
+    {
+      "id": "wmwnb0kwm",
+      "title": "详情页",
+      "year": null,
+      "section": "archive",
+      "category": "detail",
+      "mediaType": "image",
+      "description": null,
+      "coverUrl": "https://raw.githubusercontent.com/275176858-ai/portfolio-works/main/assets/cms/cover/1795077854637-追风体验官-01.jpg",
+      "coverW": null,
+      "coverH": null,
+      "videoUrl": null,
+      "videoPosterUrl": null,
+      "videoPosterW": null,
+      "videoPosterH": null,
+      "musicUrl": null,
+      "detailMedia": [],
+      "sortOrder": 99,
+      "status": "published"
     }
   ]
 }

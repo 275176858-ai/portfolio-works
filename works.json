@@ -815,25 +815,6 @@
       "status": "published"
     },
     {
-      "id": 47,
-      "title": "深蓝挂旗",
-      "year": "",
-      "category": "other",
-      "section": "archive",
-      "mediaType": "image",
-      "description": "",
-      "coverUrl": "assets/img/works/other-06.webp",
-      "coverW": 681,
-      "coverH": 970,
-      "videoUrl": "",
-      "videoPosterUrl": "",
-      "detailMedia": [],
-      "musicUrl": "",
-      "long": false,
-      "sortOrder": 347,
-      "status": "published"
-    },
-    {
       "id": 49,
       "title": "物料延展下幅",
       "year": "",

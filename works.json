@@ -910,6 +910,26 @@
       "detailMedia": [],
       "sortOrder": 99,
       "status": "published"
+    },
+    {
+      "id": "wmwndc7ba",
+      "title": "比赛",
+      "year": null,
+      "section": "featured",
+      "category": "poster",
+      "mediaType": "image",
+      "description": null,
+      "coverUrl": "https://huanglifu-portfolio.netlify.app/cms-media/cover/1795081762602-未标题-2-05_画板-1-03.jpg",
+      "coverW": 4000,
+      "coverH": 2250,
+      "videoUrl": null,
+      "videoPosterUrl": null,
+      "videoPosterW": 4000,
+      "videoPosterH": 2250,
+      "musicUrl": null,
+      "detailMedia": [],
+      "sortOrder": 99,
+      "status": "draft"
     }
   ]
 }

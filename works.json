@@ -103,20 +103,22 @@
     {
       "id": 6,
       "title": "折页设计",
-      "year": "",
+      "year": null,
       "category": "brand",
-      "section": "featured",
+      "section": "archive",
       "mediaType": "image",
       "description": "折页设计：折叠节奏与信息分区配合，让印刷物自己会讲故事。",
       "coverUrl": "assets/img/works/brand-09.webp",
       "coverW": 1600,
       "coverH": 1000,
-      "videoUrl": "",
-      "videoPosterUrl": "",
+      "videoUrl": null,
+      "videoPosterUrl": null,
       "detailMedia": [],
-      "musicUrl": "",
+      "musicUrl": null,
       "sortOrder": 6,
-      "status": "published"
+      "status": "published",
+      "videoPosterW": 1600,
+      "videoPosterH": 1000
     },
     {
       "id": 7,
